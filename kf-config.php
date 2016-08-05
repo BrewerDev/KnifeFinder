@@ -1,12 +1,12 @@
 <?php
 /** The name of the database for Site */
-define('DB_NAME', 'pb0612_knifefinder');
+define('DB_NAME', 'database_name');
 
 /** MySQL database username */
-define('DB_USER', 'pb0612_admin');
+define('DB_USER', 'user_name');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'haputRu5ar4t');
+define('DB_PASSWORD', 'password');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
